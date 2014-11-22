@@ -1,0 +1,11 @@
+#settings
+title: Limech's Github Page
+baseurl: ""
+url: "http://limech.github.io"
+description: "My home on Github"
+
+twitter_username: limech
+github_username: limech
+
+markdown: kramdown
+permalink: pretty
