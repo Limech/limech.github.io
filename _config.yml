@@ -1,11 +1,35 @@
-#settings
-title: Limech's Github Page
-baseurl: ""
-url: "http://limech.github.io"
-description: "My home on Github"
+title: Michel Vallee
+description: > # this means to ignore newlines until "baseurl:"
+  Michel Vallee's website
+permalink: ':title/'
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://limech.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: michelvallee_
 
-twitter_username: limech
-github_username: limech
+# Author Settings
+author: Michel Vallee # add your name
+author-img: limech.jpg # add your photo
+about-author: I am a senior software engineer working at General Dynamics Mission Systems Canada # add description
+social-twitter: michelvallee_
+social-facebook: # add your Facebook handle
+social-github: limech # add your Github handle
+social-linkedin: limech # add your Linkedin handle
+social-email: limech@me.com # add your Email address
 
+# Disqus
+discus-identifier:  # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
 markdown: kramdown
-permalink: pretty
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
