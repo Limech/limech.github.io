@@ -2,7 +2,7 @@
 layout: post
 title: Open source, or commercial?
 date: 2019-07-15T15:00:00Z
-description:  # Add post description (optional)
+description: Is open source always the best solution? # Add post description (optional)
 img: workflow.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: []
