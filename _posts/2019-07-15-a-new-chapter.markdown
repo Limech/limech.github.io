@@ -8,8 +8,6 @@ fig-caption: # Add figcaption (optional)
 tags: []
 ---
 
-## The dilema
-
 Open-source has many benefits when trying to develop software. In effect, I'd go as far as to say that it is not possible to produce a piece of software these days without using open source.  But this article isn't about open source libraries or scripts, but about full fledge applications.
 
 For example, [Jenkins](https://jenkins.io/) vs [Bamboo](https://www.atlassian.com/software/bamboo) or [Jira](https://www.atlassian.com/software/jira) vs [OpenProject](https://www.openproject.org) or even [KVM](https://www.linux-kvm.org/page/Main_Page) vs [vSphere](https://www.vmware.com/ca/products/vsphere.html).
