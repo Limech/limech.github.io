@@ -1148,8 +1148,11 @@ footer .copyright {
 .post .post-content {
   padding: 1rem;
   width: 70%;
-  text-decoration:none;
 }
+
+.post .post-content a {
+ text-decoration: none;
+ }
 
 .post .post-content .post-date,
 .post .post-content .post-words {
