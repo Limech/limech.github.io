@@ -1155,11 +1155,7 @@ footer .copyright {
 .post .post-content .post-words {
   font-size: 12px;
   text-decoration: none;
-}
-
-.post-content .post-date,
-.post-content .post-words {
-  text-decoration: none;
+  display: block;
 }
 
 .post .post-content .post-title {
