@@ -1151,12 +1151,7 @@ footer .copyright {
 }
 
 
-.post .post-content .post-date,
-.post .post-content .post-words {
-  font-size: 12px;
-  text-decoration: none;
-  display: block;
-}
+
 
 .post .post-content .post-title {
   margin: 0 0 10px;
@@ -1196,6 +1191,15 @@ a.newer-posts:hover {
       -ms-transform: translateX(-5px);
           transform: translateX(-5px);
 }
+
+
+.post .post-content .post-date,
+.post .post-content .post-words {
+  font-size: 12px;
+  text-decoration: none;
+  display: block;
+}
+
 
 /* - - - - - - - - - - Post Page Styles - - - - - - - - - - */
 .wrap-content {
