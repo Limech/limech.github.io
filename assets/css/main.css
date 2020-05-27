@@ -1157,6 +1157,11 @@ footer .copyright {
   text-decoration: none;
 }
 
+.post-content .post-date,
+.post-content .post-words {
+  text-decoration: none;
+}
+
 .post .post-content .post-title {
   margin: 0 0 10px;
   font-size: 30px;
